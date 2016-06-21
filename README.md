@@ -1,4 +1,6 @@
-# join-a-breakout
+![Chi Hack Night](https://chihacknight.org/images/logo/logo.png "Chi Hack Night")
+
+# Chi Hack Night join-a-breakout
 *Experimental issues-only repo for connecting people and breakout groups*
 
 ## Here's how it works
