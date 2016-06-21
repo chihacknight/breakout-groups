@@ -9,10 +9,11 @@
 2. Open a new GitHub Issue in this repository: https://github.com/chihacknight/join-a-breakout/issues/new
 2. Set the title of your issue to the name of your breakout
 3. In the description, answer the following questions ([here's an example](https://github.com/chihacknight/join-a-breakout/issues/1)):
- * About the group
- * Who we're looking for
- * Tools
- * Where we meet
+ * **About the group** A high level overview of your breakout group. What problem are you trying to solve? Make this simple and jargon-free. Links are good too!
+ * **Group leaders** Names and contact info for the people running this group.
+ * **Who we're looking for** Describe the kinds of people who would be good for your group. Include the skills, domain knowledge and interests that will help make your project succeed.
+ * **Tools** Describe the tools that you are using.
+ * **Where we meet** Where in the Braintree office do you meet? Flipping Tables? The cafeteria? 
 4. Add labels to your breakout group to help others find your group.
 5. Click 'Submit new issue' and you're done!
 
