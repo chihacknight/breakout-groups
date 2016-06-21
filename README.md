@@ -3,7 +3,20 @@
 # Chi Hack Night join-a-breakout
 *Experimental issues-only repo for connecting people and breakout groups*
 
-## Here's how it works
+## Adding your breakout group
+
+1. Create a GitHub account if you don't already have one: https://github.com/join
+2. Open a new GitHub Issue in this repository: https://github.com/chihacknight/join-a-breakout/issues/new
+2. Set the title of your issue to the name of your breakout
+3. In the description, answer the following questions ([here's an example](https://github.com/chihacknight/join-a-breakout/issues/1)):
+ * About the group
+ * Who we're looking for
+ * Tools
+ * Where we meet
+4. Add labels to your breakout group to help others find your group.
+5. Click 'Submit new issue' and you're done!
+
+## Why are we doing this?
 
 Chi Hack Night wants to try a new way of announcing of breakout groups and we could use your help! Here's the idea:
 
