@@ -13,6 +13,7 @@
  * **Group leaders** Names and contact info for the people running this group.
  * **Who we're looking for** Describe the kinds of people who would be good for your group. Include the skills, domain knowledge and interests that will help make your project succeed.
  * **Tools** Describe the tools that you are using.
+ * **Relevant Links** Any relevant links, e.g. a github repo, a demo site
  * **Where we meet** Where in the Braintree office do you meet? Flipping Tables? The cafeteria? 
 4. Add labels to your breakout group to help others find your group.
 5. Click 'Submit new issue' and you're done!
