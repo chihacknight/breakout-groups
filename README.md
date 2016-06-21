@@ -37,4 +37,4 @@ This will allow breakout group leaders to write their own group descriptions, ei
 
 1. Starting **Tuesday, June 21st**, Chi Hack Night will switch the old link of breakout groups over to the new list of GitHub issues and will announce groups based on that. We'll run this experiment for a couple of weeks and see how it goes.
 
-2. Group issues will be marked as **Closed** if they aren't meeting at the current week's event. This allows temporaraily inactive groups to be "dormant" without taking up announcement time, and also gives you a good opportunity to edit your group's description as the work progresses.
+2. Group issues will be marked as **Closed** if they aren't meeting at the current week's event, but can always be re-opened later.
