@@ -1,6 +1,6 @@
 ![Chi Hack Night](https://chihacknight.org/images/logo/logo.png "Chi Hack Night")
 
-# Chi Hack Night Breakout Groups
+# Chi Hack Night - Breakout Groups
 
 Every week at Chi Hack Night, we break out into topic-specific working and learning groups led by regular facilitators to guide conversations, answer questions, and build teams for civic apps. The groups are split into two types: working groups and learning groups.
 
