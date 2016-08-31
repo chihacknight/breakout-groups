@@ -11,5 +11,5 @@ You can see the full list of projects on the Chi Hack Night Breakout Groups page
 ## How do I add a group to the list?
 
 1. Create a GitHub account if you don't already have one: https://github.com/join
-2. Open a new GitHub Issue in this repository: https://github.com/chihacknight/join-a-breakout/issues/new
+2. Open a new GitHub Issue in this repository: https://github.com/chihacknight/breakout-groups/issues/new
 3. Set the title of your issue to the name of your breakout, and fill out the description template in the body. We will add the appropriate labels to it.
