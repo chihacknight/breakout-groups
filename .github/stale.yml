@@ -25,12 +25,11 @@ exemptMilestones: false
 exemptAssignees: false
 
 # Label to use when marking as stale
-staleLabel: stale
+staleLabel: "support check"
 
 # Comment to post when marking as stale. Set to `false` to disable
 markComment: >
-  Hey, it's your friendly Hack Night Bot. This issue has been automatically marked as stale because it has not had
-  recent activity. Is this project still active? We'd love an update either way, and let us know if you have any problems we can help address!
+  Is this project still active? We'd love an update either way, and let us know if you have any problems we can help address!
 
 # Comment to post when removing the stale label.
 # unmarkComment: >
